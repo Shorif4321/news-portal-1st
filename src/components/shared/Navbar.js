@@ -19,7 +19,7 @@ const Navbar = () => {
         },
         {
             route: "Categories",
-            path: "/categories"
+            path: "/categories/news?category=all-news"
         },
         {
             route: "About",
